@@ -1,0 +1,2 @@
+# Diabetes-Prediction-Using-ML-Decision-Tree-with-97-Accuracy-via-Pipeline-Transformer-Method
+This project predicts diabetes using machine learning algorithms like Decision Tree, Random Forest, AdaBoost, KNN, and Logistic Regression. A machine learning pipeline with a transformer method was employed for efficient preprocessing and training. The Decision Tree model stood out, achieving an impressive 97% accuracy.
